@@ -1,7 +1,5 @@
 # XcodeFileTemplates-Swift
 Xcode file templates of Swift version.
-Xcode6 File Templates for Swift Code.
-
 =======================
 
 
