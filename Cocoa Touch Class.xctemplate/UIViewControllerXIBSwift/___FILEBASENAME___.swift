@@ -30,6 +30,7 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     }
 
     // MARK: - Event Methods -
+    // MARK: - Public Methods -
     // MARK: - Private Methods -
     private func configure() {
     }

@@ -10,6 +10,11 @@ import UIKit
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
+    // MARK: - IBOutlet Property -
+    // MARK: - Public Property -
+    // MARK: - Private Property -
+
+    // MARK: - Override Methods -
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
@@ -20,6 +25,9 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
         // Configure the view for the selected state
     }
+
+    // MARK: - Public Methods -
+    // MARK: - Private Methods -
 
 }
 

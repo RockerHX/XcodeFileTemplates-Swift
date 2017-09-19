@@ -10,13 +10,19 @@ import UIKit
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
+    // MARK: - IBOutlet Property -
+    // MARK: - Public Property -
+    // MARK: - Private Property -
+
     /*
-    // Only override draw() if you perform custom drawing.
-    // An empty implementation adversely affects performance during animation.
+    // MARK: - Override Methods -
     override func draw(_ rect: CGRect) {
         // Drawing code
     }
     */
+
+    // MARK: - Public Methods -
+    // MARK: - Private Methods -
 
 }
 
