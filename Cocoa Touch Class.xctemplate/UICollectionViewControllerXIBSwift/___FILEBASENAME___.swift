@@ -34,7 +34,7 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 }
 
 
-// MARK: - Collection View Data Source -
+// MARK: - Collection View Data Source Methods -
 extension ___FILEBASENAMEASIDENTIFIER___ {
 
     override func numberOfSections(in collectionView: UICollectionView) -> Int {
@@ -59,7 +59,7 @@ extension ___FILEBASENAMEASIDENTIFIER___ {
 }
 
 
-// MARK: - Collection View Delegate -
+// MARK: - Collection View Delegate Methods -
 extension ___FILEBASENAMEASIDENTIFIER___ {
 
     override func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
