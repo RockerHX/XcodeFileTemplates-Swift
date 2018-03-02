@@ -44,7 +44,7 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 }
 
 
-// MARK: - Table View Extension -
+// MARK: - Table View Data Source Methods -
 extension ___FILEBASENAMEASIDENTIFIER___ {
 
     // MARK: - Table View Data Source Methods -
@@ -59,12 +59,16 @@ extension ___FILEBASENAMEASIDENTIFIER___ {
     /*
      override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
      let cell = tableView.dequeueReusableCell(withIdentifier: "reuseIdentifier", for: indexPath)
-
      // Configure the cell...
-
      return cell
      }
      */
+
+}
+
+
+// MARK: - Table View Delegate Methods -
+extension ___FILEBASENAMEASIDENTIFIER___ {
 
     // MARK: - Table View Delegate Methods -
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
