@@ -15,6 +15,7 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     // MARK: - IBOutlet Property -
     // MARK: - Public Property -
     // MARK: - Private Property -
+    // MARK: - Override Property -
 
     /*
     // MARK: - Override Methods -
@@ -23,8 +24,26 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     }
     */
 
-    // MARK: - Public Methods -
-    // MARK: - Private Methods -
+    // MARK: - Override Methods -
+    // MARK: - Initialize Methods -
+    // MARK: - Configuration Methods -
+    private func configure() {
+    }
 
+}
+
+
+// MARK: - Event Methods -
+extension ___FILEBASENAMEASIDENTIFIER___ {
+}
+
+
+// MARK: - Public Methods -
+extension ___FILEBASENAMEASIDENTIFIER___ {
+}
+
+
+// MARK: - Private Methods -
+extension ___FILEBASENAMEASIDENTIFIER___ {
 }
 

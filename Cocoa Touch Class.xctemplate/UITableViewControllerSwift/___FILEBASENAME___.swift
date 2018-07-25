@@ -17,6 +17,7 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     // MARK: - IBOutlet Property -
     // MARK: - Public Property -
     // MARK: - Private Property -
+    // MARK: - Override Property -
 
     // MARK: - View Controller Life Cycle -
     override func viewDidLoad() {
@@ -35,12 +36,26 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
     }
 
-    // MARK: - Event Methods -
-    // MARK: - Public Methods -
-    // MARK: - Private Methods -
+    // MARK: - Override Methods -
+    // MARK: - Configuration Methods -
     private func configure() {
     }
 
+}
+
+
+// MARK: - Event Methods -
+extension ___FILEBASENAMEASIDENTIFIER___ {
+}
+
+
+// MARK: - Public Methods -
+extension ___FILEBASENAMEASIDENTIFIER___ {
+}
+
+
+// MARK: - Private Methods -
+extension ___FILEBASENAMEASIDENTIFIER___ {
 }
 
 
