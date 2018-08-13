@@ -19,7 +19,6 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     // MARK: - View Controller Life Cycle -
     override func viewDidLoad() {
         super.viewDidLoad()
-
         configure()
     }
 
