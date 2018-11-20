@@ -60,7 +60,6 @@ extension ___FILEBASENAMEASIDENTIFIER___ {
 // MARK: - Table View Data Source Methods -
 extension ___FILEBASENAMEASIDENTIFIER___ {
 
-    // MARK: - Table View Data Source Methods -
     override func numberOfSections(in tableView: UITableView) -> Int {
         return 0
     }
@@ -83,7 +82,6 @@ extension ___FILEBASENAMEASIDENTIFIER___ {
 // MARK: - Table View Delegate Methods -
 extension ___FILEBASENAMEASIDENTIFIER___ {
 
-    // MARK: - Table View Delegate Methods -
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
     }
 
